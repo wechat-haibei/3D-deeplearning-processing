@@ -410,7 +410,7 @@ if __name__ == '__main__':
 
 docker原生并不支持在他生成的容器中使用Nvidia  GP资源。nvidia-docker是对docker的封装，提供一些必要的组件可以很方便的在容器中用GPU资源执行代码。从下面的图中可以很容器看到nvidia-docker共享了宿主机的CUDA  Driver。
 
-![img](file:///C:\Users\19247\Documents\Tencent Files\1924721559\Image\C2C\AE67A310AB3D97702DDBC81B76AAA490.png)
+![img](./img/QQ图片20211218201027.jpg)
 
 #### 3.Docker安装
 
