@@ -6,6 +6,12 @@
 最长长度、窗户数目、窗户面积、整个建筑的体积（立方米数）。
 3. 识别并计算楼宇外围物体的数目，比如树木、垃圾箱、灯杆、空调外挂机等等。
 
+
+##结果文件
+
+[3D点云处理结果](https://pan.baidu.com/s/1yMT3p4x3bvdDtLHSQSFzyQ)(提取码：wax3)
+(因点云文件较大无法上传到GitHub，所以以百度网盘形式分享）
+
 ## 一、三维重建
 
 ### 综述
@@ -120,12 +126,8 @@ root_directory
 
 点云数据的`colmap`与`patchmatchnet`处理结果：
 
-[colmap处理结果](https://pan.baidu.com/s/11UaJ74vQcnfFC1q9BU78cw) (提取码:og6y)
-
-[patchmatchnet处理结果](https://pan.baidu.com/s/11JwJ-VMgWA8e3S2JQCxZTg) 提取码：aldz
-
-我们裁去了最终模型结果中的周边景物，只保留建筑物的结果，得到[最终点云结果](https://pan.baidu.com/s/1oLG-bYXIlJfpmT9IiWpk3w 
-)(提取码：6286)，点云截图如下所示：
+[3D点云处理结果](https://pan.baidu.com/s/1yMT3p4x3bvdDtLHSQSFzyQ)(提取码：wax3)
+，我们截除了建筑物周边景物，得到的点云截图如下所示：
 ![24](./img/24cloud.png)
 ![8](./img/8cloud.png)
 ![22](./img/22cloud.png)
