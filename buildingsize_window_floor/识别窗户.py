@@ -1,3 +1,9 @@
+# 参考：
+# 计算窗户与楼层数目：
+# https://cloud.tencent.com/developer/article/1675022
+# 计算楼层高度：
+# https://blog.csdn.net/liqiancao/article/details/55670749
+
 import numpy as np
 import cv2 as cv
 
