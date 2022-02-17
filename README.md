@@ -10,8 +10,10 @@
 ## 结果文件
 
 [3D点云处理结果](https://pan.baidu.com/s/1yMT3p4x3bvdDtLHSQSFzyQ)(提取码：wax3)
-(因点云文件较大无法上传到GitHub，所以以百度网盘形式分享）
+[目标检测处理结果](https://pan.baidu.com/s/1qtJXbS5TZPu5yPsKCkVzQQ?pwd=1ym7)(提取码：1ym7)
+(因点云等结果文件较大无法上传到GitHub，所以以百度网盘形式分享）
 其余结果已附在readme与code文件中。
+
 
 ## 一、三维重建
 
@@ -132,6 +134,7 @@ root_directory
 ![24](./img/24cloud.png)
 ![8](./img/8cloud.png)
 ![22](./img/22cloud.png)
+
 题目要求：结合计算机视觉课程知识，识别并计算出楼层数目、最高高度、最宽宽度、最长长度、窗户数目、窗户面积。
 
 ## 二、计算建筑物尺寸与识别楼层、窗户的数量，计算窗户数量与面积
